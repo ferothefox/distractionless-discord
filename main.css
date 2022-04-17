@@ -1,0 +1,116 @@
+.wrapper-1_HaEi,
+.header-3OsQeK,
+.topic-11NuQZ,
+.icon-1ELUnB,
+.iconWrapper-2awDjA,
+.container-YkUktl,
+.container-2o3qEW,
+.membersWrap-3NUR2t,
+.nowPlayingColumn-1eCBCN,
+.container-1zzFcN,
+.searchBar-3TnChZ,
+.unreadBottom-3Ojk6R,
+.buttons-uaqb-5,
+.attachWrapper-3slhXI,
+.pro-3GwLMX[style="color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"],
+.streamQualityIndicator-n62BFt,
+.privateChannelsHeaderContainer-1UWASm,
+.option-ayUoaq::after {
+    display: none;
+}
+
+:root {
+    --background-primary: #24272c;
+    --background-secondary: #1b1d21;
+    --background-secondary-alt: #1b1d21;
+    --background-tertiary: #1b1d21;
+    --channeltextarea-background: #1b1d21;
+    --background-modifier-selected: #2b2e35;
+    --background-accent: #1b1d21;
+    --background-message-hover: #1b1d21;
+    --background-modifier-hover: #2b2e35;
+    --background-modifier-active: #2b2e35;
+    --background-floating: #0f1013;
+    --scrollbar-auto-thumb: #0f1013;
+    --scrollbar-auto-track: #1b1d21;
+    --scrollbar-thin-thumb: #000000;
+    --activity-card-background: #24272c;
+}
+
+.scrollableContainer-15eg7h {
+    border-radius: 30px;
+}
+
+.channelTextArea-1VQBuV {
+    border-radius: 30px;
+}
+
+.inner-NQg18Y {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.chat-2ZfjoI {
+    border-radius: 20px 0 0 0;
+}
+
+.container-2cd8Mz {
+    border-radius: 20px 0 0 0;
+}
+
+.applicationStore-2nk7Lo {
+    border-radius: 20px 0 0 0;
+}
+
+.container-ZMc96U {
+    padding: 0 16px
+}
+
+.container-2giAcK {
+    visibility: hidden;
+}
+
+.app-3xd6d0,
+.mobileApp-3_TCAV {
+    position: static;
+}
+
+.wordmarkWindows-2dq6rw {
+    visibility: hidden;
+}
+
+.input-3r5zZY {
+    background-color: #24272c;
+}
+
+.container-2McqkF {
+    background-color: #24272c;
+}
+
+.resultsGroup-cfY57t {
+    background-color: #24272c;
+}
+
+.peopleColumn-1wMU14 {
+    background-color: #24272c;
+}
+
+.base-3bcbY3 {
+    left: 8px;
+}
+
+.platform-win .sidebar-1tnWFu {
+    border-radius: 0;
+}
+
+.base-3bcbY3 .ellipsis-1e7x0D {
+    display: none;
+}
+
+.winButton-3UMjdg {
+    display: none;
+}
+
+* {
+    cursor: default !important;
+}
